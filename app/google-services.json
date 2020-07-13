@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537166814428",
+    "firebase_url": "https://finalappu.firebaseio.com",
+    "project_id": "finalappu",
+    "storage_bucket": "finalappu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537166814428:android:19b751bc059b75d23ae819",
+        "android_client_info": {
+          "package_name": "com.example.fianlappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537166814428-bamvm126jrdjmucid6m2i2gpjss71io7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmAHwaPYy5PNsY7XLCCz2HHyJg2m1g0xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537166814428-bamvm126jrdjmucid6m2i2gpjss71io7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

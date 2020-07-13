@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorGooglePlusDark"
+    xmlns:tools="http://schemas.android.com/tools"
+
+
+    >
+    <item android:id="@+id/mask">
+
+        <shape android:shape="rectangle">
+            <solid android:color="@color/colorGooglePlusDark"/>
+        </shape>
+
+
+    </item>
+    <item
+        android:id="@+id/background"
+        android:drawable="@color/colorGooglePlus"
+        />
+
+
+</ripple>

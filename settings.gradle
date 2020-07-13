@@ -1,0 +1,3 @@
+include ':my librery'
+include ':app'
+rootProject.name = "FianlAppFireBase"
